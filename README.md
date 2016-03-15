@@ -14,7 +14,7 @@ A more concise approach to Swift's stride functions. Inspired by the simplicity 
 
 ####Notes:
 - This is a conceptual implementation just for `Int`.
-- SwiftStride outputs an `[Int]`, whereas Swift outputs a Range<Int>  
+- SwiftyStride outputs an `Array<Int>`, whereas Swift outputs a `Range<Int>`  
 - Comments and suggestions welcome!
 
 ####The code:
